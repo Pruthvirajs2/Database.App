@@ -4,5 +4,6 @@
     [Name] NVARCHAR(MAX) NULL, 
     [Address] NVARCHAR(MAX) NULL, 
     [Phone] NUMERIC NULL, 
-    [Class] NVARCHAR(MAX) NULL
+    [Class] NVARCHAR(MAX) NULL, 
+    [pin] NVARCHAR(50) NULL
 )
