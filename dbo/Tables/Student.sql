@@ -3,5 +3,6 @@
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Name] NVARCHAR(MAX) NULL, 
     [Address] NVARCHAR(MAX) NULL, 
-    [Phone] NUMERIC NULL
+    [Phone] NUMERIC NULL, 
+    [Class] NVARCHAR(MAX) NULL
 )
