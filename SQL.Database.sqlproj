@@ -63,6 +63,6 @@
   <ItemGroup>
     <Build Include="dbo\Tables\Employee.sql" />
     <Build Include="dbo\Tables\Student.sql" />
-    <Build Include="dbo\TestTable.sql" />
+    <Build Include="dbo\Tables\Teachers.sql" />
   </ItemGroup>
 </Project>
