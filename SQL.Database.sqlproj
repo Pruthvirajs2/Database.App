@@ -66,4 +66,7 @@
     <Build Include="dbo\Tables\Teachers.sql" />
     <Build Include="dbo\Tables\TestTable.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SQL.Database.publish.xml" />
+  </ItemGroup>
 </Project>
